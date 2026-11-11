@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "pageTitle": "Krishna & Pramey",
+    "timezone": "Asia/Kolkata",
+    "hostFamily": "Chauhan Family"
+  },
+
+  "music": {
+    "enabled": true,
+    "title": "Auspicious Shehnai & Sitar",
+    "src": ""
+  },
+
+  "couple": {
+    "bride": {
+      "name": "Krishna",
+      "fullName": "Dr. Krishna Chauhan",
+      "credentials": "M.S. Obs. & Gyn.",
+      "parents": "D/O Mrs. Geeta & Mr. Shailesh Chauhan"
+    },
+    "groom": {
+      "name": "Pramey",
+      "fullName": "Dr. Pramey Gohil",
+      "credentials": "M.S. Ortho.",
+      "parents": "S/O Mrs. Jyoti & Mr. Divyangbhai Gohil"
+    }
+  },
+
+  "screens": {
+    "opening": {
+      "initialOne": "K",
+      "initialTwo": "P",
+      "invocation": "॥ श्री गणेशाय नमः ॥",
+      "tapLabel": "Tap to open",
+      "backgroundImage": ""
+    },
+
+    "hero": {
+      "blessing": "With divine blessing of “Maa Chamunda”",
+      "eyebrow": "The wedding of",
+      "intro": "From a beautiful twist of fate to an eternal bond of love, two families rejoice as they tie the knot together.",
+      "invite": "We invite you to grace our wedding festivities with your love, laughter & blessings.",
+      "dateLine": "30 – 31 January 2027",
+      "venue": {
+        "name": "Tara Suns Hotel",
+        "city": "Vadodara, Gujarat",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tara+Suns+Hotel+Gotri+Vadodara"
+      },
+      "locationLabel": "Know the location",
+      "backgroundImage": ""
+    },
+
+    "countdown": {
+      "eyebrow": "Counting the days",
+      "title": "Until we say ‘I do’",
+      "target": "2027-01-31T12:15:00+05:30",
+      "targetLabel": "Hastmelap muhurat · Sunday, 31 January 2027 · 12:15 PM",
+      "scratchHint": "Scratch to reveal",
+      "scratchSub": "Rub the gold foil with your finger",
+      "celebrationText": "The auspicious day is here!",
+      "units": ["Days", "Hours", "Minutes", "Seconds"]
+    },
+
+    "events": {
+      "eyebrow": "The celebration",
+      "title": "Wedding Festivities",
+      "intro": "Join us as we begin the celebrations with music, bliss and endless joy.",
+      "items": [
+        {
+          "id": "ganesh-haldi",
+          "title": "Ganesh Sthapana & Haldi",
+          "dayLabel": "Saturday, 30 January 2027",
+          "icon": "kalash",
+          "palette": "sage",
+          "schedule": [
+            { "label": "Ganesh Sthapana", "time": "8:00 AM" },
+            { "label": "Mandap Muhurat", "time": "9:00 AM" },
+            { "label": "Haldi", "time": "10:00 AM" }
+          ],
+          "theme": { "name": "Blue & Pink", "note": "Let’s Party & Wink" },
+          "note": "Followed by lunch at 12:00 PM",
+          "venue": {
+            "name": "Gopi-Utsav Party Plot",
+            "address": "Khanpur Road, New Alkapuri, Ankodiya, Vadodara – 390023",
+            "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gopi+Utsav+Party+Plot+Khanpur+Road+New+Alkapuri+Vadodara"
+          },
+          "calendar": { "start": "2027-01-30T08:00:00+05:30", "end": "2027-01-30T13:00:00+05:30" }
+        },
+        {
+          "id": "grah-shanti",
+          "title": "Grah Shanti",
+          "dayLabel": "Saturday, 30 January 2027",
+          "icon": "dhol",
+          "palette": "mauve",
+          "schedule": [
+            { "label": "Grah Shanti Puja", "time": "3:00 PM" }
+          ],
+          "theme": null,
+          "note": "",
+          "venue": {
+            "name": "Gopi-Utsav Party Plot",
+            "address": "Khanpur Road, New Alkapuri, Ankodiya, Vadodara – 390023",
+            "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gopi+Utsav+Party+Plot+Khanpur+Road+New+Alkapuri+Vadodara"
+          },
+          "calendar": { "start": "2027-01-30T15:00:00+05:30", "end": "2027-01-30T17:00:00+05:30" }
+        },
+        {
+          "id": "musical-evening",
+          "title": "Musical Evening",
+          "dayLabel": "Saturday, 30 January 2027",
+          "icon": "music",
+          "palette": "sage",
+          "schedule": [
+            { "label": "Musical Evening", "time": "6:30 PM" },
+            { "label": "Dinner", "time": "7:00 PM onward" }
+          ],
+          "theme": { "name": "Sparkle & Swirl", "note": "" },
+          "note": "",
+          "venue": {
+            "name": "Gopi-Utsav Party Plot",
+            "address": "Khanpur Road, New Alkapuri, Ankodiya, Vadodara – 390023",
+            "mapUrl": "https://www.google.com/maps/search/?api=1&query=Gopi+Utsav+Party+Plot+Khanpur+Road+New+Alkapuri+Vadodara"
+          },
+          "calendar": { "start": "2027-01-30T18:30:00+05:30", "end": "2027-01-30T23:00:00+05:30" }
+        },
+        {
+          "id": "wedding-day",
+          "title": "The Wedding Ceremony",
+          "dayLabel": "Sunday, 31 January 2027",
+          "icon": "mandap",
+          "palette": "mauve",
+          "schedule": [
+            { "label": "Baraat Aagman", "time": "9:45 AM" },
+            { "label": "Hastmelap", "time": "12:15 PM" },
+            { "label": "Lunch", "time": "12:00 PM onward" }
+          ],
+          "theme": null,
+          "note": "We solicit your gracious presence & blessings on this auspicious occasion.",
+          "venue": {
+            "name": "Tara Suns Hotel",
+            "address": "B/s Sonal Park, G.E.R.I. Road, Sundaram Nagar, Gotri, Vadodara",
+            "mapUrl": "https://www.google.com/maps/search/?api=1&query=Tara+Suns+Hotel+Gotri+Vadodara"
+          },
+          "calendar": { "start": "2027-01-31T09:45:00+05:30", "end": "2027-01-31T15:00:00+05:30" }
+        }
+      ]
+    },
+
+    "blessings": {
+      "eyebrow": "With divine blessings of",
+      "title": "Our Elders",
+      "people": [
+        "Shri Prabhudas Chauhan",
+        "Late Sushilaben P. Chauhan",
+        "Shri Dilip P. Chauhan",
+        "Smt. Parul D. Chauhan",
+        "Shri Shailesh P. Chauhan",
+        "Smt. Geeta S. Chauhan",
+        "Dr. Vaidehi",
+        "Utsav"
+      ],
+      "mosad": ["Shri Jayantibhai Chauhan", "Late Vasuben J. Chauhan"]
+    },
+
+    "thankYou": {
+      "eyebrow": "With gratitude",
+      "title": "Thank You",
+      "message": "We look forward to celebrating these precious moments with you. Your presence is the greatest blessing we could ask for.",
+      "signoff": "With love, gratitude, and warm regards,",
+      "from": {
+        "label": "From",
+        "name": "Shri Shailesh Prabhudas Chauhan",
+        "address": "A-901, Sumerru Silver Leaf, Pal, Surat",
+        "phone": "+91 63599 76199"
+      },
+      "backgroundImage": ""
+    }
+  }
+}
